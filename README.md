@@ -1,0 +1,1 @@
+commscale.maven-eclipse-plugin
